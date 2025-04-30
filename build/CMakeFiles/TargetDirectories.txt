@@ -1,0 +1,3 @@
+D:/OpenGLStuff/build/CMakeFiles/main.dir
+D:/OpenGLStuff/build/CMakeFiles/edit_cache.dir
+D:/OpenGLStuff/build/CMakeFiles/rebuild_cache.dir
